@@ -19,5 +19,15 @@ https://yarnpkg.com/en/
 
 ## Installing and Updating Node.js
 <br>
-You can install node at the follinw link: https://nodejs.org/en/download/
+You can install node at the folling link: 
+https://nodejs.org/en/download/
+<br>
+Once you have installed node you can ensure you have the latest stable version installed by running these commands:
+
+```
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
+```
+
 <br>
