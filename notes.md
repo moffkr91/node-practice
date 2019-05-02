@@ -1,5 +1,4 @@
-# Notes
-Useful links:
+# Useful links:
 <br>
 <b>Node.js Docs</b>
 <br>
@@ -19,5 +18,5 @@ https://yarnpkg.com/en/
 <br>
 ## Installing and Updating Node.js
 <br>
-You can install node at the follinw link: <a href="https://nodejs.org/en/download/" target="_blank">https://nodejs.org/en/download/</a>
+You can install node at the follinw link: https://nodejs.org/en/download/
 <br>
