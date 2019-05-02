@@ -1,19 +1,19 @@
 # Notes
 Useful links:
 <br>
-Node.js Docs
+<b>Node.js Docs</b>
 <br>
 https://nodejs.org/dist/latest-v10.x/docs/api/
 <br>
-MDN Docs
+<b>MDN Docs</b>
 <br>
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 <br>
-NPM
+<b>NPM</b>
 <br>
 https://www.npmjs.com/
 <br>
-Yarn
+<b>Yarn</b>
 <br>
 https://yarnpkg.com/en/
 <br>
